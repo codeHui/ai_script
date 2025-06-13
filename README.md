@@ -4,7 +4,7 @@
 # 硬件
 1张Nvidia A100 80G 
 # 部署模型
-Lamma3.1 70b 4bit
+Llama3.1 70b 4bit
 4bit是指quantization，4bit是最小的（代表精度最低（模型大小最小），但性能最好，ollama只支持4bit）。我在ollama官网没看到是用的那个版本的4bit，llama官网也没看见不同quantization版本，所以我不确定Llama官方是否提供了不同quantization版本（知道的麻烦告知下）
 # 硬件性能监控工具
 ## GPU监控工具
